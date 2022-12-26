@@ -1,0 +1,2 @@
+This is a rtl code in VHDL.It consists of a multiplier and an accumulator on its output. Multiplier is designed using AND array and full adder array.
+Accumulator is a parallel adder with one input connected to output of multiplier and other with the latched of its own output.
